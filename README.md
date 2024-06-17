@@ -20,20 +20,18 @@ By building upon the RawInput.Touchpad library, this research aims to bridge the
 ## Important Note: Disable Windows Touchpad Gestures
 
 Before using this project, it's crucial to disable the default Windows touchpad gestures in your system settings. This ensures accurate and unhindered multitouch data collection.
-[Image of Windows Touchpad Gesture Settings]
-(https://github.com/banyapon/RawInputTouchPadWindows/blob/main/screenA.png?raw=true)
+![Image of Windows Touchpad Gesture Settings](https://github.com/banyapon/RawInputTouchPadWindows/blob/main/screenA.png?raw=true)
 
 ## Multitouch in Action
 
 Here's a visualization of 5 simultaneous touch points being recognized and processed by the project:
-(https://github.com/banyapon/RawInputTouchPadWindows/blob/main/program.png?raw=true)
+![5 Fingers Trackpad or Touchpad Touch in Windows Platform](https://github.com/banyapon/RawInputTouchPadWindows/blob/main/program.png?raw=true)
 
 ## Research Affiliation
 
 This project is part of the ongoing research conducted at the School of Information Technology, King Mongkut's Institute of Technology Ladkrabang.
 
-[Image of School of Information Technology Logo]
-(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5b-D1sOtWlEknmbzk-dSl8WRjjl3bcXXwk-0I_qBxhvvb4HPYpaHWUC5vHWnlySdmEg&usqp=CAU)
+![Image of School of Information Technology Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5b-D1sOtWlEknmbzk-dSl8WRjjl3bcXXwk-0I_qBxhvvb4HPYpaHWUC5vHWnlySdmEg&usqp=CAU)
 
 ## Getting Started
 
