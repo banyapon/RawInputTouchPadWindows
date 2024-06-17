@@ -2,12 +2,13 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net5.0-windows</TargetFramework>
+    <TargetFramework>net8.0-windows</TargetFramework>
     <UseWPF>true</UseWPF>
-    <Authors>emoacht</Authors>
-    <Copyright>Copyright © 2021 emoacht</Copyright>
+    <Authors>emoacht, banyapon</Authors>
+    <Copyright>Copyright © 2021 emoacht, 2024 banyapon</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    <Description>Winddows .NET SDK 8.0 with Visualization RawInput</Description>
   </PropertyGroup>
 
   <ItemGroup>

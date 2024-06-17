@@ -41,12 +41,20 @@ namespace RawInput.Touchpad
 		public MainWindow()
 		{
 			InitializeComponent();
-		}
+            this.PreviewKeyDown += new KeyEventHandler(HandleEsc);
+        }
 
 		private HwndSource _targetSource;
 		private readonly List<string> _log = new();
 
-		protected override void OnSourceInitialized(EventArgs e)
+        private void HandleEsc(object sender, KeyEventArgs e)
+        {
+            if (e.Key == Key.Escape)
+                Close();
+        }
+
+
+        protected override void OnSourceInitialized(EventArgs e)
 		{
 			base.OnSourceInitialized(e);
 
@@ -119,8 +127,8 @@ namespace RawInput.Touchpad
             {
                 Width = 30,
                 Height = 30,
-                Fill = Brushes.Green,
-                Stroke = Brushes.Black,
+                Fill = Brushes.DarkCyan,
+                Stroke = Brushes.DarkCyan,
             };
 
             // Add a TextBlock to display ContactId

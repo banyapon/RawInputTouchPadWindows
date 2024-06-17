@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sourceRepo\\source\\RawInput.Touchpad\\RawInput.Touchpad.csproj": {}
+    "C:\\sourceRepo\\source\\RawInput.Touchpad\\RawInputTouchPadWindows\\RawInput.Touchpad.csproj": {}
   },
   "projects": {
-    "C:\\sourceRepo\\source\\RawInput.Touchpad\\RawInput.Touchpad.csproj": {
+    "C:\\sourceRepo\\source\\RawInput.Touchpad\\RawInputTouchPadWindows\\RawInput.Touchpad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sourceRepo\\source\\RawInput.Touchpad\\RawInput.Touchpad.csproj",
+        "projectUniqueName": "C:\\sourceRepo\\source\\RawInput.Touchpad\\RawInputTouchPadWindows\\RawInput.Touchpad.csproj",
         "projectName": "RawInput.Touchpad",
-        "projectPath": "C:\\sourceRepo\\source\\RawInput.Touchpad\\RawInput.Touchpad.csproj",
+        "projectPath": "C:\\sourceRepo\\source\\RawInput.Touchpad\\RawInputTouchPadWindows\\RawInput.Touchpad.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\sourceRepo\\source\\RawInput.Touchpad\\obj\\",
+        "outputPath": "C:\\sourceRepo\\source\\RawInput.Touchpad\\RawInputTouchPadWindows\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows"
+          "net8.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0-windows7.0": {
-            "targetAlias": "net5.0-windows",
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
             "projectReferences": {}
           }
         },
@@ -46,8 +46,8 @@
         }
       },
       "frameworks": {
-        "net5.0-windows7.0": {
-          "targetAlias": "net5.0-windows",
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
           "dependencies": {
             "Microsoft.Web.WebView2": {
               "target": "Package",
@@ -73,7 +73,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

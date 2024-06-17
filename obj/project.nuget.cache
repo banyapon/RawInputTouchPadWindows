@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eDget3nj32E=",
+  "dgSpecHash": "jMTmSyN6doY=",
   "success": true,
-  "projectFilePath": "C:\\sourceRepo\\source\\RawInput.Touchpad\\RawInput.Touchpad.csproj",
+  "projectFilePath": "C:\\sourceRepo\\source\\RawInput.Touchpad\\RawInputTouchPadWindows\\RawInput.Touchpad.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.web.webview2\\1.0.2210.55\\microsoft.web.webview2.1.0.2210.55.nupkg.sha512"
   ],

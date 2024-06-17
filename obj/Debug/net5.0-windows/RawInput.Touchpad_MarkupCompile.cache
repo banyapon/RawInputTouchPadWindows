@@ -4,12 +4,12 @@
 winexe
 C#
 .cs
-C:\sourceRepo\source\RawInput.Touchpad\obj\Debug\net5.0-windows\
+C:\sourceRepo\source\RawInput.Touchpad\RawInputTouchPadWindows\obj\Debug\net5.0-windows\
 RawInput.Touchpad
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-C:\sourceRepo\source\RawInput.Touchpad\App.xaml
+C:\sourceRepo\source\RawInput.Touchpad\RawInputTouchPadWindows\App.xaml
 11407045341
 3379887811
 51551434952
